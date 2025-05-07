@@ -1,5 +1,7 @@
 # **Predicting CO₂ Emissions Using Regression Analysis**  
 
+![Regression Analysis Visualization](https://github.com/aadilchavhan/vehicle-emissions-regression/blob/main/CO%E2%82%82%20Emissions.png)
+
 ## **Overview**  
 This project applies **regression analysis** to predict **CO₂ emissions** from vehicles based on relevant features. By leveraging statistical modeling, we aim to uncover key patterns influencing emission levels and develop a reliable predictive framework.  
 
@@ -24,5 +26,3 @@ This project makes use of the following technologies:
 - **Fuel consumption** and **engine size** strongly correlate with CO₂ emissions.  
 - Certain vehicle types significantly impact emission levels.  
 - Regression models demonstrate reliable predictive capabilities.
-
-  ![Regression Analysis Visualization](https://github.com/aadilchavhan/vehicle-emissions-regression/blob/main/CO%E2%82%82%20Emissions.png)
